@@ -214,4 +214,4 @@ Ecofont is available as a **full free version**, providing all features and upda
 Don’t wait! Start saving ink and money today by downloading Ecofont now!
 
 ---
-**Last updated:** 2026-11-12 23:25:09 UTC
+**Last updated:** 2026-11-13 06:01:32 UTC
